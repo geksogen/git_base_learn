@@ -5,16 +5,9 @@
 
 
 ******FRQ
-<<<<<<< Updated upstream
-1) 
-2) "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
-
-=======
-1) система принимает на вход информацию о составе заказа и распределяет на робота по принадлежности в соответствии с составом заказа (блюдо)
+1)
 2)
->>>>>>> Stashed changes
-3) functional requirement from KS
-4) functional requirement
+3)
 
 
 
